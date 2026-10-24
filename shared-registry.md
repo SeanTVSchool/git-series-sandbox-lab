@@ -18,7 +18,7 @@ Do not worry about breaking it — that's the point of Challenge 2.
 | 11 | _available_ | _available_ |
 | 12 | _available_ | _available_ |
 | 13 | _available_ | _available_ |
-| 14 | _available_ | _available_ |
+| 14 | Garcia, Rhino P>| BSIT 3 |
 | 15 | _available_ | _available_ |
 | 16 | _available_ | _available_ |
 | 17 | _available_ | _available_ |
